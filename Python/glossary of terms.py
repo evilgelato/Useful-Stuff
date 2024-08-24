@@ -82,4 +82,3 @@ Versatile data	Versatile data, in a general context, refers to data that can be 
 
 """
 
-
