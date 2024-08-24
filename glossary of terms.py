@@ -1,5 +1,7 @@
 """
 
+https://author-ide.skills.network/render?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZF9pbnN0cnVjdGlvbnNfdXJsIjoiaHR0cHM6Ly9jZi1jb3Vyc2VzLWRhdGEuczMudXMuY2xvdWQtb2JqZWN0LXN0b3JhZ2UuYXBwZG9tYWluLmNsb3VkL0lCTURldmVsb3BlclNraWxsc05ldHdvcmstUFkwMTAxRU4tU2tpbGxzTmV0d29yay9sYWJzLzIwMDMzNi4wMzJfTW9kdWxlXzFfR2xvc3NhcnkubWQiLCJ0b29sX3R5cGUiOiJpbnN0cnVjdGlvbmFsLWxhYiIsImFkbWluIjpmYWxzZSwiaWF0IjoxNzExNjM4NjA1fQ.wrvA7G5ZBeCTQ1-4w2PkNgqaRWIX70n_aSTczyI4Zs4
+
 Glossary: Python Basics
 Welcome! This alphabetized glossary contains many of the terms you'll find within this course. This comprehensive glossary also includes additional industry-recognized terms not used in course videos. These terms are important for you to recognize when working in the industry, participating in user groups, and participating in other certificate programs.
 
@@ -44,5 +46,7 @@ Substring	A substring is a sequence of characters that are part of an original s
 Type casting	The process of converting one data type to another data type is called Typecasting or Type Coercion or Type Conversion.
 Types in Python	Data types are the classification or categorization of data items. It represents the kind of value that tells what operations can be performed on a particular data.
 Variables	Variables are containers for storing data values.
+
+
 
 """
