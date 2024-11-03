@@ -18,3 +18,8 @@ cheat_sheet_python_data_pd = 'https://author-ide.skills.network/render?token=eyJ
 
 
 
+import Numpy as np
+
+X=np.array([[1,0,1],[2,2,2]]) 
+
+out=X[0:2,2]
