@@ -9,12 +9,7 @@ class Breakfast {
       this.fat = fat;
       this.carbs = carbs;
     }
-const example_breakfast = new Breakfast(protein,5,1,1) 
 
-
-
-
-console.log(example_breakfast); 
 
 
     // Method to get total calories (assuming macronutrient values in grams)
@@ -28,6 +23,14 @@ console.log(example_breakfast);
     }
   }
   
+
+
+  const example_breakfast = new Breakfast("protein1",5,1,1) 
+
+example_breakfast.display()
+
+
+
   // Example usage:
   const myBreakfast = new Breakfast(20, 10, 30);
   myBreakfast.display(); // Output: Protein: 20g, Fat: 10g, Carbs: 30g
